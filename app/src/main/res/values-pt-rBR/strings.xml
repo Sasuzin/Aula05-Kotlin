@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula 05 - Kotlin</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="Email">Email</string>
+    <string name="ir">Ir</string>
+</resources>

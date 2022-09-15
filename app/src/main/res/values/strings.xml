@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula 05 - Kotlin</string>
+    <string name="nome">Name</string>
+    <string name="telefone">Phone</string>
+    <string name="Email">Email</string>
+    <string name="ir">Go</string>
+</resources>
